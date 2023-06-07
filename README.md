@@ -6,3 +6,6 @@ The array would allow each of the mathmatical loops to use an incremental pointe
 
 The minimum and maximum loops would use jsr and branching code, along with its mathmatical code to determine the highest value from two of the 5 values at a time. 
 Storing the current highest and lowest in their respective locations to later be displayed to the user through output strings. 
+
+To run this program, you'll need an LC-3 simulator or emulator. Simply load the program into the simulator and execute it. 
+The program will prompt you to enter the test scores, and then display the letter grades and statistics associated with those scores. 
